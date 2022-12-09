@@ -1,0 +1,64 @@
+2022-10-13T04:46:32.081Z - info:   [0119] *** FOLDER: /home/rclarke/dev/projects/oletalk-token ***
+2022-10-13T04:46:32.083Z - info:   [0119] AzureReposVSCode/1.161.1 (VSCode 1.72.1; Linux 5.4.72-microsoft-standard-WSL2; Node 16.14.2)
+2022-10-13T04:46:32.272Z - warn:   [0119] TFVC Couldn't find where the TF command lives on disk.
+2022-10-13T04:46:32.273Z - error:  [0119] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
+2022-10-13T20:24:21.479Z - info:   [0119] *** FOLDER: /home/rclarke/dev/projects/oletalk-token ***
+2022-10-13T20:24:21.483Z - info:   [0119] AzureReposVSCode/1.161.1 (VSCode 1.72.1; Linux 5.4.72-microsoft-standard-WSL2; Node 16.14.2)
+2022-10-13T20:24:21.564Z - warn:   [0119] TFVC Couldn't find where the TF command lives on disk.
+2022-10-13T20:24:21.566Z - error:  [0119] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
+2022-10-13T20:24:32.066Z - info:   [0119] *** FOLDER: /home/rclarke/dev/projects/oletalk-token ***
+2022-10-13T20:24:32.066Z - info:   [0119] AzureReposVSCode/1.161.1 (VSCode 1.72.1; Linux 5.4.72-microsoft-standard-WSL2; Node 16.14.2)
+2022-10-13T20:24:32.077Z - warn:   [0119] TFVC Couldn't find where the TF command lives on disk.
+2022-10-13T20:24:32.078Z - error:  [0119] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
+2022-10-13T23:59:36.725Z - info:   [0119] *** FOLDER: /home/rclarke/dev/projects/oletalk-token ***
+2022-10-13T23:59:36.729Z - info:   [0119] AzureReposVSCode/1.161.1 (VSCode 1.72.1; Linux 5.4.72-microsoft-standard-WSL2; Node 16.14.2)
+2022-10-13T23:59:36.766Z - warn:   [0119] TFVC Couldn't find where the TF command lives on disk.
+2022-10-13T23:59:36.767Z - error:  [0119] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
+2022-10-13T23:59:38.281Z - info:   [0119] *** FOLDER: /home/rclarke/dev/projects/oletalk-token ***
+2022-10-13T23:59:38.281Z - info:   [0119] AzureReposVSCode/1.161.1 (VSCode 1.72.1; Linux 5.4.72-microsoft-standard-WSL2; Node 16.14.2)
+2022-10-13T23:59:38.291Z - warn:   [0119] TFVC Couldn't find where the TF command lives on disk.
+2022-10-13T23:59:38.292Z - error:  [0119] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
+2022-10-13T23:59:39.875Z - info:   [0119] *** FOLDER: /home/rclarke/dev/projects/oletalk-token ***
+2022-10-13T23:59:39.876Z - info:   [0119] AzureReposVSCode/1.161.1 (VSCode 1.72.1; Linux 5.4.72-microsoft-standard-WSL2; Node 16.14.2)
+2022-10-13T23:59:39.895Z - warn:   [0119] TFVC Couldn't find where the TF command lives on disk.
+2022-10-13T23:59:39.895Z - error:  [0119] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
+2022-10-14T02:54:36.923Z - info:   [0119] *** FOLDER: /home/rclarke/dev/projects/oletalk-token ***
+2022-10-14T02:54:36.925Z - info:   [0119] AzureReposVSCode/1.161.1 (VSCode 1.72.1; Linux 5.4.72-microsoft-standard-WSL2; Node 16.14.2)
+2022-10-14T02:54:36.987Z - warn:   [0119] TFVC Couldn't find where the TF command lives on disk.
+2022-10-14T02:54:36.988Z - error:  [0119] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
+2022-10-14T02:59:06.290Z - info:   [0119] *** FOLDER: /home/rclarke/dev/projects/oletalk-token ***
+2022-10-14T02:59:06.291Z - info:   [0119] AzureReposVSCode/1.161.1 (VSCode 1.72.1; Linux 5.4.72-microsoft-standard-WSL2; Node 16.14.2)
+2022-10-14T02:59:06.313Z - warn:   [0119] TFVC Couldn't find where the TF command lives on disk.
+2022-10-14T02:59:06.314Z - error:  [0119] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
+2022-10-14T07:13:46.811Z - info:   [04346] *** FOLDER: /home/rclarke/dev/projects/oletalk-token ***
+2022-10-14T07:13:46.812Z - info:   [04346] AzureReposVSCode/1.161.1 (VSCode 1.72.2; Linux 5.4.72-microsoft-standard-WSL2; Node 16.14.2)
+2022-10-14T07:13:46.951Z - warn:   [04346] TFVC Couldn't find where the TF command lives on disk.
+2022-10-14T07:13:46.951Z - error:  [04346] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
+2022-10-14T07:13:53.206Z - info:   [04346] *** FOLDER: /home/rclarke/dev/projects/oletalk-token ***
+2022-10-14T07:13:53.208Z - info:   [04346] AzureReposVSCode/1.161.1 (VSCode 1.72.2; Linux 5.4.72-microsoft-standard-WSL2; Node 16.14.2)
+2022-10-14T07:13:53.234Z - warn:   [04346] TFVC Couldn't find where the TF command lives on disk.
+2022-10-14T07:13:53.235Z - error:  [04346] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
+2022-10-14T07:13:56.376Z - info:   [04346] *** FOLDER: /home/rclarke/dev/projects/oletalk-token ***
+2022-10-14T07:13:56.379Z - info:   [04346] AzureReposVSCode/1.161.1 (VSCode 1.72.2; Linux 5.4.72-microsoft-standard-WSL2; Node 16.14.2)
+2022-10-14T07:13:56.438Z - warn:   [04346] TFVC Couldn't find where the TF command lives on disk.
+2022-10-14T07:13:56.440Z - error:  [04346] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
+2022-10-16T05:51:57.392Z - info:   [0139] *** FOLDER: /home/rclarke/dev/projects/oletalk-token ***
+2022-10-16T05:51:57.392Z - info:   [0139] AzureReposVSCode/1.161.1 (VSCode 1.72.2; Linux 5.4.72-microsoft-standard-WSL2; Node 16.14.2)
+2022-10-16T05:51:57.504Z - warn:   [0139] TFVC Couldn't find where the TF command lives on disk.
+2022-10-16T05:51:57.505Z - error:  [0139] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
+2022-12-09T01:33:15.979Z - info:   [23652] *** FOLDER: /home/rclarke/dev/projects/oletalk-token ***
+2022-12-09T01:33:15.980Z - info:   [23652] AzureReposVSCode/1.161.1 (VSCode 1.73.1; Linux 5.4.72-microsoft-standard-WSL2; Node 16.14.2)
+2022-12-09T01:33:16.353Z - warn:   [23652] TFVC Couldn't find where the TF command lives on disk.
+2022-12-09T01:33:16.355Z - error:  [23652] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
+2022-12-09T01:33:37.583Z - info:   [23652] *** FOLDER: /home/rclarke/dev/projects/oletalk-token ***
+2022-12-09T01:33:37.584Z - info:   [23652] AzureReposVSCode/1.161.1 (VSCode 1.73.1; Linux 5.4.72-microsoft-standard-WSL2; Node 16.14.2)
+2022-12-09T01:33:37.609Z - warn:   [23652] TFVC Couldn't find where the TF command lives on disk.
+2022-12-09T01:33:37.610Z - error:  [23652] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
+2022-12-09T01:33:38.909Z - info:   [23652] *** FOLDER: /home/rclarke/dev/projects/oletalk-token ***
+2022-12-09T01:33:38.909Z - info:   [23652] AzureReposVSCode/1.161.1 (VSCode 1.73.1; Linux 5.4.72-microsoft-standard-WSL2; Node 16.14.2)
+2022-12-09T01:33:38.927Z - warn:   [23652] TFVC Couldn't find where the TF command lives on disk.
+2022-12-09T01:33:38.928Z - error:  [23652] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
+2022-12-09T04:07:05.107Z - info:   [23652] *** FOLDER: /home/rclarke/dev/projects/oletalk-token ***
+2022-12-09T04:07:05.114Z - info:   [23652] AzureReposVSCode/1.161.1 (VSCode 1.73.1; Linux 5.4.72-microsoft-standard-WSL2; Node 16.14.2)
+2022-12-09T04:07:05.454Z - warn:   [23652] TFVC Couldn't find where the TF command lives on disk.
+2022-12-09T04:07:05.457Z - error:  [23652] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
